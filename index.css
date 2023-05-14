@@ -1,0 +1,84 @@
+.banner-section{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 800px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+
+button{
+   width: 150px;
+   height: 60px;
+   border-radius: 10px;
+   background-color: rgb(242, 77, 77);
+   color: white;
+}
+
+.donate{
+    text-align: center;
+    padding: 0px 400px;
+}
+.taka-section{
+    display: flex;
+    justify-content: center;
+}
+.taka-section h1{
+    padding: 30px;
+    margin: 10px;
+    background-color: lightblue;
+}
+#tk{
+    
+    background-color: rgba(195, 21, 21, 0.318);
+    border: 1px solid rgb(185, 98, 98);
+}
+.plan{
+    display: flex;
+    margin:80px 200px;
+}
+.donate-plan{
+    padding: 10px;
+    background-color: rgba(219, 139, 139, 0.364);
+    margin-left: 20px;
+}
+
+.update-text{
+    text-align: center;
+    padding: 30px 500px;
+}
+.update-input-section{
+    display: flex;
+    justify-content: center;
+}
+.update{
+    background-color: #cc676046;
+    padding-bottom: 90px;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 0px;
+  }
+  .button3 {background-color: #f44336;} /* Red */
+
+
+  footer{
+    text-align: center;
+    background-color: rgb(11, 11, 36);
+    color: white;
+    height: 200px;
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  }
